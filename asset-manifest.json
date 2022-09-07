@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/krutik09-20dcs112/static/css/main.48551862.chunk.css",
+    "main.js": "/krutik09-20dcs112/static/js/main.dd3bfe68.chunk.js",
+    "main.js.map": "/krutik09-20dcs112/static/js/main.dd3bfe68.chunk.js.map",
+    "runtime-main.js": "/krutik09-20dcs112/static/js/runtime-main.a1549500.js",
+    "runtime-main.js.map": "/krutik09-20dcs112/static/js/runtime-main.a1549500.js.map",
+    "static/css/2.9229e6f1.chunk.css": "/krutik09-20dcs112/static/css/2.9229e6f1.chunk.css",
+    "static/js/2.29c5b276.chunk.js": "/krutik09-20dcs112/static/js/2.29c5b276.chunk.js",
+    "static/js/2.29c5b276.chunk.js.map": "/krutik09-20dcs112/static/js/2.29c5b276.chunk.js.map",
+    "index.html": "/krutik09-20dcs112/index.html",
+    "precache-manifest.047772bc0c6860c09a632a59cce4107a.js": "/krutik09-20dcs112/precache-manifest.047772bc0c6860c09a632a59cce4107a.js",
+    "service-worker.js": "/krutik09-20dcs112/service-worker.js",
+    "static/css/2.9229e6f1.chunk.css.map": "/krutik09-20dcs112/static/css/2.9229e6f1.chunk.css.map",
+    "static/css/main.48551862.chunk.css.map": "/krutik09-20dcs112/static/css/main.48551862.chunk.css.map",
+    "static/js/2.29c5b276.chunk.js.LICENSE.txt": "/krutik09-20dcs112/static/js/2.29c5b276.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1549500.js",
+    "static/css/2.9229e6f1.chunk.css",
+    "static/js/2.29c5b276.chunk.js",
+    "static/css/main.48551862.chunk.css",
+    "static/js/main.dd3bfe68.chunk.js"
+  ]
+}
